@@ -1,0 +1,19 @@
+Variable:
+    - Variables are containers for storing data values.
+
+
+
+#Legal variable names:
+myvar = "Ammu"
+my_var = "_Ammu"
+_my_var = "Kiran_R"
+myVar = "joseVL"
+MYVAR = "JASSIN"
+myvar2 = "appu"
+
+#Illegal variable names:
+2myvar = "Aiden"
+my-var = "Eric"
+my var = "Kiran"
+
+
