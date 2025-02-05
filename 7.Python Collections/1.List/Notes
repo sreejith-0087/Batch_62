@@ -1,0 +1,5 @@
+Lists are used to store multiple items in a single variable.
+
+List is a collection which is ordered and changeable(mutable). Allows duplicate members
+
+Lists are created using square brackets.
