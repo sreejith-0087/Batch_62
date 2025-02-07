@@ -1,0 +1,6 @@
+Dictionaries are used to store data values in key:value pairs.
+
+Dictionary is a collection which is ordered, changeable and indexed. No duplicate members.
+
+Dictionaries are written with curly brackets, and have keys and values.
+

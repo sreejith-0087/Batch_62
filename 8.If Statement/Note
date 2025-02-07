@@ -1,0 +1,10 @@
+The "if" statement is used for conditional execution in Python.
+It allows you to execute a block of code only if a certain condition is true.
+
+syntax:-
+
+if Condition:
+    Statement
+else:
+    Statement
+

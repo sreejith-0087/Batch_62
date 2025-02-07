@@ -5,3 +5,4 @@ l = ['Apple', 'Orange', 'Kiwi', 'Banana', 'Apple']
 l.pop(4)
 
 print(l)
+
