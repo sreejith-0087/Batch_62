@@ -8,3 +8,33 @@ if Condition:
 else:
     Statement
 
+--------------------------
+
+elif:
+
+if Condition:
+    Statement
+elif Condition:
+    Statement
+elif Condition:
+    Statement
+elif Condition:
+    Statement
+else:
+    Statement
+
+---------------------------
+
+Nested if
+if statements inside if statements, this is called nested if statements
+
+if Condition:
+    if Condition:
+         Statement
+    else:
+         Statement
+elif Condition:
+    Statement
+else:
+   Statement
+
