@@ -4,3 +4,54 @@
 
 3. write a program to find the given number is prime or not.
 
+4. Remove the duplicate elements from the list ?
+   ['Apple','Orange','Apple','Grape','Kiwi','Grape]
+
+5. Pattern Printing
+
+Enter the number: 5
+*
+**
+***
+****
+*****
+
+
+Enter the number: 5
+*****
+****
+***
+**
+*
+
+
+Enter the number: 5
+    *
+   ***
+  *****
+ *******
+*********
+
+
+Enter the number: 5
+1
+12
+123
+1234
+12345
+
+
+Enter the number: 5
+1
+22
+333
+4444
+55555
+
+6. output: [[id,name,age],[id,name,age],[id,name,age]]
+
+7.Write a Python script that finds and prints all prime numbers between lowest_number and highest_number.
+        l = 5
+        h = 20
+
+        output: [5,7,11,13,17,19]

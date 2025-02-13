@@ -8,3 +8,4 @@ The range() function returns a sequence of numbers, starting from 0 by default, 
 
 for i in range(10):
     print(i)
+
