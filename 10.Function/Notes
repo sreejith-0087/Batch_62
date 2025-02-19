@@ -1,0 +1,23 @@
+Functions:-
+  - It  is a repeated group of statements or we can create a  function for a particular task.
+
+
+2 types of Functions:
+    - Pre-define Function(Built-in Function)
+    - User-define Function
+
+
+2 Main Part of Function:
+    1. Function Definition
+    2. Function Calling
+
+
+2 Main Concepts in Function:
+    1. Function Argument
+    2. Function Return
+
+Function Argument :-
+    - we can pass one or more than values from function calling to function definition are called function argument.
+
+Function Return :-
+    - we can pass a value from function definition to function calling are called function return.
