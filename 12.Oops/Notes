@@ -1,0 +1,62 @@
+Python is an object oriented programming language.
+This means that any program can be solved in python by created an object model.
+
+• programs are based on class and object are called oops.
+  The concept of oops in python focuses on creating reusable code.
+
+• One of the key features of python is object-oriented programming.
+  It focuses on objects and combines data functions.
+  Python supports both procedure-oriented and object-oriented programming which is one of the key
+  python features.
+
+
+Class:-
+   - Class is the way to bind function and its related data.
+
+object:-
+   - An object is an instantiation of a class.
+
+class - common
+object - real entity
+
+
+Oops Concepts :-
+
+1. • Encapsulation :- encapsulation means binding the code and the data together.
+   • Encapsulation is one of the fundamental concepts in oops.
+     It  describes the idea of wrapping data and the method that work on data within one unit.
+
+2. • Abstraction :- abstraction in oops is a process of hiding the real implementation of the method
+     by only showing a method signature.
+   • Data abstraction is providing only required details and hiding the implementation from the world.
+
+3. • Polymorphism :- polymorphism means the ability to take multiple forms.
+     In programming polymorphism  means the same function name being used for different types.
+
+4. Inheritance:- Inheritance is the capability of one class to derive or inherit the properties from
+                 another class.
+    - it provide reusability of a code
+
+    Type of inheritance:-
+   1.single inheritance
+   2.multilevel Inheritance
+   3.Multiple  Inheritance
+   4.Hierarchical Inheritance
+   5.Hybrid Inheritance
+
+
+Polymorphism:
+
+1.Method overloading
+2.Method overriding
+
+Method overloading:- is an example of compile time polymorphism
+     - method overloading is the class having method that are the same name with different arguments.
+     - it is used in a single class.
+
+
+Method overriding:- is an example of run time polymorphism
+      - In method overriding ,inheritance always required as it is done between parent class and child
+        class method.
+      - it is used in more than one class.
+

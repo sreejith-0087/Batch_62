@@ -1,0 +1,3 @@
+A package in Python is a collection of related modules organized in a directory with
+an '__init__.py' file, allowing you to group and manage code more effectively.
+

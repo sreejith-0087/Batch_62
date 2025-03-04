@@ -1,0 +1,4 @@
+In Python, a module is simply a file containing Python code. A module can define functions,
+classes, and variables, and it can also include runnable code. Modules allow you to organize
+your code into manageable, reusable components.
+
