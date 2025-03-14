@@ -19,3 +19,4 @@ print('Age is %d'%Age)
 
 print('Weight is %f'%weight)
 
+

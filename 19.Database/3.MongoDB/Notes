@@ -1,0 +1,19 @@
+MongoDB ::
+
+MongoDB is a popular open-source, NoSQL database management system.
+It is designed to store and manage large volumes of unstructured data.
+MongoDB uses a document-oriented data model, which means data is stored in flexible,
+JSON-like documents, rather than traditional rows and columns found in relational databases.
+
+
+Advantages of MongoDB ::
+
+1.Full cloud-based developer data platform.
+2.Flexible document schemas.
+3.Widely supported and code-native data access.
+4.Change-friendly design.
+5.Powerful querying and analytics.
+6.Easy horizontal scale-out with sharding.
+7.Simple installation.
+8.Cost-effective.
+

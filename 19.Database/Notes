@@ -1,0 +1,24 @@
+--
+A database is an organized collection of structured information, or data, typically stored
+electronically in a computer system. A database is usually controlled by a database management system (DBMS).
+--
+
+Types of Database :-
+1. Hierarchical Databases
+2. Relational Databases
+3. Non-Relational Databases
+4. Object oriented databases
+
+--
+
+Relational Database (RDBMS) :-
+A relational database is a way of structuring information in tables, rows, and columns.
+An RDB has the ability to establish links—or relationships–between information by joining tables,
+which makes it easy to understand and gain insights about the relationship between various data points.
+
+--
+
+SQL :-
+Structured Query Language (SQL) is a programming language used to extract, organize,
+manage, and manipulate data stored in relational databases.
+
